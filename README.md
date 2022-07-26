@@ -17,3 +17,11 @@ El projecte es basa en un fòrum de recomanacions, on una persona pugui planteja
 - Búsqueda de recomanació per tag
 - Búsqueda de recomonador per esport i nivell
 - Possibilitat de contacte 1 a 1: enviar peticions de recomanacions privades
+
+## Repositori Data Science
+
+https://github.com/MarkusHumetus/Hackathon_Decathlon_ITAcademy
+
+## Repositori Frontend
+
+
