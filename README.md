@@ -1,4 +1,4 @@
-# Hackathon_Decathlon_Backend
+# Hackathon_Decathlon
 El projecte es basa en un fòrum de recomanacions, on una persona pugui plantejar la seva necessitat i persones amb experiència puguin respondre i recomanar finalment un producte.
 
 
